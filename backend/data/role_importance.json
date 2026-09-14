@@ -1,0 +1,71 @@
+{
+  "Software Development Engineer": {
+    "dsa": 1.0,
+    "problem_solving": 0.98,
+    "operating_systems": 0.92,
+    "dbms": 0.88,
+    "oop": 0.85,
+    "system_design": 0.8,
+    "computer_networks": 0.75,
+    "java": 0.7,
+    "cpp": 0.7,
+    "python": 0.7,
+    "sql": 0.75,
+    "git": 0.6,
+    "rest_api": 0.65
+  },
+  "Frontend Developer": {
+    "react": 1.0,
+    "javascript": 0.98,
+    "html": 0.92,
+    "css": 0.9,
+    "typescript": 0.85,
+    "rest_api": 0.85,
+    "git": 0.75,
+    "dsa": 0.55,
+    "problem_solving": 0.6
+  },
+  "Backend Developer": {
+    "rest_api": 1.0,
+    "dbms": 0.95,
+    "sql": 0.95,
+    "system_design": 0.88,
+    "oop": 0.85,
+    "python": 0.85,
+    "java": 0.85,
+    "node_js": 0.85,
+    "dsa": 0.8,
+    "docker": 0.75,
+    "git": 0.7
+  },
+  "Data Analyst": {
+    "sql": 1.0,
+    "pandas": 0.98,
+    "python": 0.95,
+    "numpy": 0.85,
+    "dbms": 0.85,
+    "machine_learning": 0.65,
+    "git": 0.6
+  },
+  "Full Stack Engineer": {
+    "javascript": 0.95,
+    "react": 0.92,
+    "node_js": 0.9,
+    "rest_api": 0.95,
+    "sql": 0.88,
+    "dbms": 0.88,
+    "html": 0.85,
+    "css": 0.8,
+    "git": 0.75,
+    "dsa": 0.7
+  },
+  "Default": {
+    "dsa": 0.85,
+    "problem_solving": 0.85,
+    "oop": 0.8,
+    "dbms": 0.8,
+    "operating_systems": 0.75,
+    "sql": 0.75,
+    "git": 0.6
+  }
+}

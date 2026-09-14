@@ -1,0 +1,113 @@
+{
+  "oop": {
+    "prerequisites": [
+      "python",
+      "java",
+      "cpp",
+      "c",
+      "javascript"
+    ],
+    "description": "Requires foundational programming syntax and control flow knowledge.",
+    "min_match_needed": 1
+  },
+  "dsa": {
+    "prerequisites": [
+      "python",
+      "java",
+      "cpp",
+      "c"
+    ],
+    "description": "Requires proficiency in at least one core programming language.",
+    "min_match_needed": 1
+  },
+  "problem_solving": {
+    "prerequisites": [
+      "dsa"
+    ],
+    "description": "Requires foundational data structures and algorithm knowledge.",
+    "min_match_needed": 1
+  },
+  "operating_systems": {
+    "prerequisites": [
+      "python",
+      "java",
+      "cpp",
+      "c"
+    ],
+    "description": "Requires basic programming and computer architecture awareness.",
+    "min_match_needed": 1
+  },
+  "dbms": {
+    "prerequisites": [
+      "sql",
+      "python",
+      "java",
+      "cpp"
+    ],
+    "description": "Requires understanding of relational data and structured queries.",
+    "min_match_needed": 1
+  },
+  "system_design": {
+    "prerequisites": [
+      "dsa",
+      "dbms",
+      "operating_systems"
+    ],
+    "description": "Requires holistic computer science fundamentals and distributed data concepts.",
+    "min_match_needed": 2
+  },
+  "spring_boot": {
+    "prerequisites": [
+      "java",
+      "oop"
+    ],
+    "description": "Requires object-oriented programming principles and Java experience.",
+    "min_match_needed": 2
+  },
+  "react": {
+    "prerequisites": [
+      "javascript",
+      "html",
+      "css"
+    ],
+    "description": "Requires solid modern JavaScript, DOM manipulation, and CSS styling basics.",
+    "min_match_needed": 2
+  },
+  "typescript": {
+    "prerequisites": [
+      "javascript"
+    ],
+    "description": "Requires fundamental understanding of JavaScript runtime behavior.",
+    "min_match_needed": 1
+  },
+  "node_js": {
+    "prerequisites": [
+      "javascript"
+    ],
+    "description": "Requires JavaScript asynchronous programming and event loop concepts.",
+    "min_match_needed": 1
+  },
+  "machine_learning": {
+    "prerequisites": [
+      "python",
+      "numpy",
+      "pandas"
+    ],
+    "description": "Requires Python numerical computing and tabular data manipulation.",
+    "min_match_needed": 2
+  },
+  "deep_learning": {
+    "prerequisites": [
+      "machine_learning"
+    ],
+    "description": "Requires classical machine learning foundation and gradient descent principles.",
+    "min_match_needed": 1
+  },
+  "docker": {
+    "prerequisites": [
+      "linux"
+    ],
+    "description": "Benefits from familiarity with Unix CLI navigation and shell environments.",
+    "min_match_needed": 1
+  }
+}
