@@ -1,0 +1,332 @@
+{
+  "dsa": [
+    {
+      "title": "Striver A2Z DSA Course & Sheet",
+      "provider": "take U forward",
+      "resource_type": "Course",
+      "url": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 20,
+      "description": "Comprehensive structured topic-wise DSA interview preparation guide."
+    },
+    {
+      "title": "NeetCode 150 Core Practice Patterns",
+      "provider": "NeetCode",
+      "resource_type": "Practice",
+      "url": "https://neetcode.io/practice",
+      "difficulty": "Intermediate",
+      "estimated_hours": 15,
+      "description": "Curated high-frequency placement coding patterns with video walkthroughs."
+    },
+    {
+      "title": "Data Structures & Algorithms in Python / Java / C++",
+      "provider": "GeeksforGeeks",
+      "resource_type": "Article",
+      "url": "https://www.geeksforgeeks.org/data-structures/",
+      "difficulty": "Beginner",
+      "estimated_hours": 10,
+      "description": "Foundational conceptual explanations with code implementations."
+    },
+    {
+      "title": "DSA Interview Bootcamp - FreeCodeCamp",
+      "provider": "YouTube / FreeCodeCamp",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/watch?v=8hly31xKli0",
+      "difficulty": "Beginner",
+      "estimated_hours": 8,
+      "description": "Comprehensive visual lecture on trees, graphs, and dynamic programming."
+    }
+  ],
+  "operating_systems": [
+    {
+      "title": "Operating Systems Gate Smashers Placement Series",
+      "provider": "Gate Smashers",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
+      "difficulty": "Beginner",
+      "estimated_hours": 6,
+      "description": "Crisp visual explanations of process scheduling, deadlocks, paging, and synchronization."
+    },
+    {
+      "title": "Top 50 Operating System Interview Questions",
+      "provider": "GeeksforGeeks",
+      "resource_type": "Article",
+      "url": "https://www.geeksforgeeks.org/operating-systems-interview-questions/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 4,
+      "description": "High-yield interview-focused OS theory and scenario-based Q&A."
+    },
+    {
+      "title": "Operating Systems: Three Easy Pieces (OSTEP)",
+      "provider": "OSTEP Official Book",
+      "resource_type": "Documentation",
+      "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+      "difficulty": "Advanced",
+      "estimated_hours": 12,
+      "description": "The definitive textbook on virtualization, concurrency, and persistence."
+    },
+    {
+      "title": "OS Concurrency & Multithreading Practice MCQs",
+      "provider": "Sanfoundry",
+      "resource_type": "Practice",
+      "url": "https://www.sanfoundry.com/operating-system-questions-answers-concurrency/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 3,
+      "description": "MCQ practice targeting technical assessment rounds."
+    }
+  ],
+  "dbms": [
+    {
+      "title": "DBMS Comprehensive Course for Placements",
+      "provider": "Knowledge Gate",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/watch?v=kBdlM6hNDAE",
+      "difficulty": "Beginner",
+      "estimated_hours": 6,
+      "description": "Full syllabus coverage: ER diagrams, Normalization, ACID properties, Transactions."
+    },
+    {
+      "title": "SQLZoo Interactive SQL Tutorial & Practice",
+      "provider": "SQLZoo",
+      "resource_type": "Practice",
+      "url": "https://sqlzoo.net/",
+      "difficulty": "Beginner",
+      "estimated_hours": 5,
+      "description": "Hands-on interactive browser-based SQL querying challenges."
+    },
+    {
+      "title": "DBMS Interview Guide & Normal Forms",
+      "provider": "GeeksforGeeks",
+      "resource_type": "Article",
+      "url": "https://www.geeksforgeeks.org/dbms/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 5,
+      "description": "Complete guide covering 1NF to BCNF, indexing, and recovery."
+    },
+    {
+      "title": "PostgreSQL Official Documentation",
+      "provider": "PostgreSQL Global Development Group",
+      "resource_type": "Documentation",
+      "url": "https://www.postgresql.org/docs/",
+      "difficulty": "Advanced",
+      "estimated_hours": 8,
+      "description": "Official guide to relational architecture and transaction isolation levels."
+    }
+  ],
+  "oop": [
+    {
+      "title": "Object-Oriented Programming in Java & C++",
+      "provider": "Kunal Kushwaha",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/watch?v=BSvc3k48kE8",
+      "difficulty": "Beginner",
+      "estimated_hours": 4,
+      "description": "Practical breakdown of 4 OOP pillars, abstract classes, and interfaces."
+    },
+    {
+      "title": "SOLID Principles Explained Simply",
+      "provider": "freeCodeCamp",
+      "resource_type": "Article",
+      "url": "https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 3,
+      "description": "Clean code and object-oriented architecture interview readiness."
+    },
+    {
+      "title": "Refactoring Guru: Design Patterns",
+      "provider": "Refactoring Guru",
+      "resource_type": "Documentation",
+      "url": "https://refactoring.guru/design-patterns",
+      "difficulty": "Intermediate",
+      "estimated_hours": 6,
+      "description": "Visual guide to Creational, Structural, and Behavioral design patterns."
+    },
+    {
+      "title": "LeetCode OOP Design Problems (Parking Lot, LRU Cache)",
+      "provider": "LeetCode",
+      "resource_type": "Practice",
+      "url": "https://leetcode.com/problemset/all/?topicSlugs=design",
+      "difficulty": "Intermediate",
+      "estimated_hours": 6,
+      "description": "Hands-on Low Level Design (LLD) interview question practice."
+    }
+  ],
+  "computer_networks": [
+    {
+      "title": "Computer Networks Placement Lecture Series",
+      "provider": "Gate Smashers",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+      "difficulty": "Beginner",
+      "estimated_hours": 5,
+      "description": "Covers OSI Layers, TCP 3-way handshake, Subnetting, and DNS."
+    },
+    {
+      "title": "Top 50 Networking Interview Questions",
+      "provider": "GeeksforGeeks",
+      "resource_type": "Article",
+      "url": "https://www.geeksforgeeks.org/networking-interview-questions/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 4,
+      "description": "Concise summaries of HTTP vs HTTPS, TCP vs UDP, and socket programming."
+    },
+    {
+      "title": "MDN Web Docs: An Overview of HTTP",
+      "provider": "MDN Web Docs",
+      "resource_type": "Documentation",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview",
+      "difficulty": "Intermediate",
+      "estimated_hours": 3,
+      "description": "Detailed reference on request headers, caching, and HTTP methods."
+    }
+  ],
+  "system_design": [
+    {
+      "title": "System Design Primer (Open Source Repository)",
+      "provider": "Donne Martin",
+      "resource_type": "Course",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "difficulty": "Advanced",
+      "estimated_hours": 15,
+      "description": "Industry gold-standard primer on scalable systems, caching, and sharding."
+    },
+    {
+      "title": "Gaurav Sen System Design Playlist",
+      "provider": "Gaurav Sen",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+      "difficulty": "Intermediate",
+      "estimated_hours": 7,
+      "description": "Intuitive diagrams explaining message queues, consistent hashing, and microservices."
+    }
+  ],
+  "react": [
+    {
+      "title": "React Official Documentation (Learn React)",
+      "provider": "React.dev",
+      "resource_type": "Documentation",
+      "url": "https://react.dev/learn",
+      "difficulty": "Beginner",
+      "estimated_hours": 8,
+      "description": "Modern interactive documentation covering Hooks, State, and Component Lifecycle."
+    },
+    {
+      "title": "Full Modern React Course (2024)",
+      "provider": "freeCodeCamp",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+      "difficulty": "Beginner",
+      "estimated_hours": 10,
+      "description": "Project-based React tutorial with modern Hooks and state patterns."
+    },
+    {
+      "title": "React Coding Challenges",
+      "provider": "GreatFrontend",
+      "resource_type": "Practice",
+      "url": "https://www.greatfrontend.com/questions/react",
+      "difficulty": "Intermediate",
+      "estimated_hours": 6,
+      "description": "Hands-on frontend interview component building exercises."
+    }
+  ],
+  "javascript": [
+    {
+      "title": "The Modern JavaScript Tutorial (javascript.info)",
+      "provider": "javascript.info",
+      "resource_type": "Documentation",
+      "url": "https://javascript.info/",
+      "difficulty": "Beginner",
+      "estimated_hours": 12,
+      "description": "From core fundamentals to closures, prototypes, event loops, and async/await."
+    },
+    {
+      "title": "Namaste JavaScript Series",
+      "provider": "Akshay Saini",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+      "difficulty": "Intermediate",
+      "estimated_hours": 6,
+      "description": "In-depth explanation of execution context, hoisting, and closures."
+    }
+  ],
+  "python": [
+    {
+      "title": "Python Official Tutorial & Standard Library",
+      "provider": "Python Software Foundation",
+      "resource_type": "Documentation",
+      "url": "https://docs.python.org/3/tutorial/",
+      "difficulty": "Beginner",
+      "estimated_hours": 8,
+      "description": "Official language documentation, data structures, and standard library reference."
+    },
+    {
+      "title": "Python for Coding Interviews",
+      "provider": "NeetCode",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/watch?v=0K_eZGS5NsU",
+      "difficulty": "Beginner",
+      "estimated_hours": 3,
+      "description": "Quick syntax crash course tailored to competitive programming and technical rounds."
+    }
+  ],
+  "sql": [
+    {
+      "title": "LeetCode SQL 50 Study Plan",
+      "provider": "LeetCode",
+      "resource_type": "Practice",
+      "url": "https://leetcode.com/studyplan/top-sql-50/",
+      "difficulty": "Beginner",
+      "estimated_hours": 8,
+      "description": "50 most essential SQL queries asked in product-based placement interviews."
+    },
+    {
+      "title": "Mode Analytics SQL Tutorial for Data Analysis",
+      "provider": "Mode",
+      "resource_type": "Course",
+      "url": "https://mode.com/sql-tutorial/",
+      "difficulty": "Intermediate",
+      "estimated_hours": 6,
+      "description": "Covers window functions, aggregations, and subqueries with real data."
+    }
+  ],
+  "java": [
+    {
+      "title": "Java Programming Masterclass",
+      "provider": "Java Official / Oracle",
+      "resource_type": "Documentation",
+      "url": "https://docs.oracle.com/javase/tutorial/",
+      "difficulty": "Beginner",
+      "estimated_hours": 10,
+      "description": "Java language fundamentals, Generics, and Collections framework."
+    },
+    {
+      "title": "Java Placement Course",
+      "provider": "Apna College",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+      "difficulty": "Beginner",
+      "estimated_hours": 12,
+      "description": "Complete Java and DSA placement track with interview tips."
+    }
+  ],
+  "cpp": [
+    {
+      "title": "C++ Standard Template Library (STL) Complete Guide",
+      "provider": "Luv",
+      "resource_type": "Video",
+      "url": "https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-",
+      "difficulty": "Beginner",
+      "estimated_hours": 6,
+      "description": "Master vectors, maps, sets, iterators, and comparator functions for placements."
+    },
+    {
+      "title": "cppreference.com STL Documentation",
+      "provider": "cppreference",
+      "resource_type": "Documentation",
+      "url": "https://en.cppreference.com/w/",
+      "difficulty": "Advanced",
+      "estimated_hours": 8,
+      "description": "Exhaustive reference for modern C++ standards and time complexities."
+    }
+  ]
+}

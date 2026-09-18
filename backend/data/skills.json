@@ -1,0 +1,660 @@
+[
+  {
+    "id": "dsa",
+    "name": "DSA",
+    "category": "CS Fundamentals",
+    "aliases": [
+      "dsa",
+      "data structures and algorithms",
+      "data structures",
+      "algorithms",
+      "algo"
+    ],
+    "description": "Core data structures (arrays, linked lists, trees, graphs) and algorithmic problem solving.",
+    "keywords": [
+      "trees",
+      "graphs",
+      "arrays",
+      "linked lists",
+      "binary search",
+      "recursion",
+      "dynamic programming",
+      "hash maps",
+      "sorting",
+      "stack",
+      "queue",
+      "heap"
+    ]
+  },
+  {
+    "id": "oop",
+    "name": "OOP",
+    "category": "CS Fundamentals",
+    "aliases": [
+      "oop",
+      "oops",
+      "object oriented programming",
+      "object-oriented programming",
+      "object oriented concepts"
+    ],
+    "description": "Encapsulation, inheritance, polymorphism, abstraction, and design principles.",
+    "keywords": [
+      "classes",
+      "objects",
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "interfaces",
+      "solid principles",
+      "design patterns"
+    ]
+  },
+  {
+    "id": "dbms",
+    "name": "DBMS",
+    "category": "CS Fundamentals",
+    "aliases": [
+      "dbms",
+      "database management systems",
+      "database management system",
+      "relational database",
+      "rdbms"
+    ],
+    "description": "Relational databases, normalization, indexing, transactions, ACID properties.",
+    "keywords": [
+      "acid",
+      "normalization",
+      "indexing",
+      "transactions",
+      "b-trees",
+      "foreign key",
+      "joins",
+      "sql queries",
+      "concurrency control"
+    ]
+  },
+  {
+    "id": "operating_systems",
+    "name": "Operating Systems",
+    "category": "CS Fundamentals",
+    "aliases": [
+      "operating systems",
+      "os",
+      "operating system"
+    ],
+    "description": "Process management, threads, concurrency, memory management, scheduling.",
+    "keywords": [
+      "processes",
+      "threads",
+      "deadlocks",
+      "virtual memory",
+      "paging",
+      "cpu scheduling",
+      "mutex",
+      "semaphore",
+      "file systems",
+      "ipc"
+    ]
+  },
+  {
+    "id": "computer_networks",
+    "name": "Computer Networks",
+    "category": "CS Fundamentals",
+    "aliases": [
+      "computer networks",
+      "cn",
+      "networking",
+      "network protocols"
+    ],
+    "description": "OSI model, TCP/IP, HTTP/HTTPS, DNS, routing, sockets.",
+    "keywords": [
+      "tcp",
+      "udp",
+      "ip",
+      "http",
+      "https",
+      "dns",
+      "osi model",
+      "sockets",
+      "routing",
+      "subnetting",
+      "tls",
+      "ssl"
+    ]
+  },
+  {
+    "id": "system_design",
+    "name": "System Design",
+    "category": "CS Fundamentals",
+    "aliases": [
+      "system design",
+      "distributed systems",
+      "low level design",
+      "high level design",
+      "lld",
+      "hld",
+      "architecture"
+    ],
+    "description": "Scalable distributed architectures, load balancing, caching, message queues.",
+    "keywords": [
+      "scalability",
+      "load balancing",
+      "caching",
+      "cdn",
+      "microservices",
+      "message queues",
+      "kafka",
+      "redis",
+      "sharding",
+      "replication"
+    ]
+  },
+  {
+    "id": "problem_solving",
+    "name": "Problem Solving",
+    "category": "Problem Solving",
+    "aliases": [
+      "problem solving",
+      "competitive programming",
+      "analytical thinking",
+      "coding ability",
+      "algorithmic problem solving"
+    ],
+    "description": "Translating complex real-world requirements into optimized algorithmic solutions.",
+    "keywords": [
+      "leetcode",
+      "hackerrank",
+      "codeforces",
+      "logic building",
+      "optimization",
+      "time complexity",
+      "edge cases"
+    ]
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "category": "Programming",
+    "aliases": [
+      "python",
+      "python3",
+      "py"
+    ],
+    "description": "Versatile high-level programming language widely used in backend, scripting, and AI.",
+    "keywords": [
+      "python3",
+      "pip",
+      "virtualenv",
+      "generators",
+      "decorators",
+      "list comprehensions",
+      "asyncio"
+    ]
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "category": "Programming",
+    "aliases": [
+      "java",
+      "core java",
+      "java 8",
+      "java 11",
+      "java 17"
+    ],
+    "description": "Class-based, object-oriented language for enterprise applications and placement interviews.",
+    "keywords": [
+      "jvm",
+      "jdk",
+      "multithreading",
+      "collections framework",
+      "streams",
+      "garbage collection",
+      "spring"
+    ]
+  },
+  {
+    "id": "cpp",
+    "name": "C++",
+    "category": "Programming",
+    "aliases": [
+      "c++",
+      "cpp",
+      "c plus plus"
+    ],
+    "description": "High-performance systems programming language with STL for competitive programming.",
+    "keywords": [
+      "stl",
+      "pointers",
+      "memory management",
+      "templates",
+      "vectors",
+      "references",
+      "raii"
+    ]
+  },
+  {
+    "id": "c",
+    "name": "C",
+    "category": "Programming",
+    "aliases": [
+      "c",
+      "c language"
+    ],
+    "description": "Foundational procedural language for low-level systems and embedded computing.",
+    "keywords": [
+      "pointers",
+      "memory allocation",
+      "malloc",
+      "structs",
+      "header files",
+      "preprocessor"
+    ]
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "category": "Web",
+    "aliases": [
+      "javascript",
+      "js",
+      "es6",
+      "ecmascript"
+    ],
+    "description": "Dynamic scripting language powering modern web applications and server runtimes.",
+    "keywords": [
+      "es6",
+      "promises",
+      "async await",
+      "closures",
+      "event loop",
+      "dom",
+      "npm",
+      "callbacks"
+    ]
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Web",
+    "aliases": [
+      "typescript",
+      "ts"
+    ],
+    "description": "Typed superset of JavaScript enhancing code quality and enterprise maintainability.",
+    "keywords": [
+      "types",
+      "interfaces",
+      "generics",
+      "type checking",
+      "tsc",
+      "tsconfig"
+    ]
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Web",
+    "aliases": [
+      "react",
+      "reactjs",
+      "react.js"
+    ],
+    "description": "Component-driven declarative frontend library for responsive web user interfaces.",
+    "keywords": [
+      "hooks",
+      "state",
+      "props",
+      "jsx",
+      "virtual dom",
+      "redux",
+      "context api",
+      "components"
+    ]
+  },
+  {
+    "id": "html",
+    "name": "HTML",
+    "category": "Web",
+    "aliases": [
+      "html",
+      "html5"
+    ],
+    "description": "Standard markup language for creating structured web documents and semantic elements.",
+    "keywords": [
+      "semantic tags",
+      "dom",
+      "forms",
+      "canvas",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "css",
+    "name": "CSS",
+    "category": "Web",
+    "aliases": [
+      "css",
+      "css3",
+      "cascading style sheets"
+    ],
+    "description": "Style sheet language for presentation, layout, flexbox, grid, and responsiveness.",
+    "keywords": [
+      "flexbox",
+      "grid",
+      "responsive",
+      "media queries",
+      "animations",
+      "tailwind",
+      "sass"
+    ]
+  },
+  {
+    "id": "node_js",
+    "name": "Node.js",
+    "category": "Web",
+    "aliases": [
+      "node.js",
+      "nodejs",
+      "node"
+    ],
+    "description": "Event-driven asynchronous JavaScript runtime for backend services and microservices.",
+    "keywords": [
+      "express",
+      "npm",
+      "event loop",
+      "streams",
+      "buffers",
+      "fs",
+      "http"
+    ]
+  },
+  {
+    "id": "spring_boot",
+    "name": "Spring Boot",
+    "category": "Web",
+    "aliases": [
+      "spring boot",
+      "springboot",
+      "spring framework",
+      "spring"
+    ],
+    "description": "Java framework for rapid, production-ready microservices and RESTful APIs.",
+    "keywords": [
+      "dependency injection",
+      "spring mvc",
+      "spring data jpa",
+      "hibernate",
+      "rest controller",
+      "maven"
+    ]
+  },
+  {
+    "id": "rest_api",
+    "name": "REST API",
+    "category": "Web",
+    "aliases": [
+      "rest api",
+      "restful api",
+      "rest",
+      "apis",
+      "web services"
+    ],
+    "description": "Architectural style for stateless, standard HTTP client-server communication.",
+    "keywords": [
+      "http methods",
+      "get",
+      "post",
+      "put",
+      "delete",
+      "status codes",
+      "endpoints",
+      "json",
+      "crud"
+    ]
+  },
+  {
+    "id": "sql",
+    "name": "SQL",
+    "category": "Databases",
+    "aliases": [
+      "sql",
+      "structured query language"
+    ],
+    "description": "Standard language for querying, manipulating, and aggregating relational data.",
+    "keywords": [
+      "select",
+      "joins",
+      "group by",
+      "aggregate functions",
+      "subqueries",
+      "indexes",
+      "ddl",
+      "dml"
+    ]
+  },
+  {
+    "id": "mysql",
+    "name": "MySQL",
+    "category": "Databases",
+    "aliases": [
+      "mysql"
+    ],
+    "description": "Popular open-source relational database management system.",
+    "keywords": [
+      "innodb",
+      "primary key",
+      "foreign keys",
+      "indexes",
+      "workbench"
+    ]
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Databases",
+    "aliases": [
+      "postgresql",
+      "postgres"
+    ],
+    "description": "Advanced, reliable open-source object-relational database system.",
+    "keywords": [
+      "jsonb",
+      "stored procedures",
+      "triggers",
+      "pgadmin",
+      "extensions"
+    ]
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Databases",
+    "aliases": [
+      "mongodb",
+      "mongo",
+      "nosql database"
+    ],
+    "description": "Document-based distributed NoSQL database for flexible JSON-like schemas.",
+    "keywords": [
+      "collections",
+      "documents",
+      "bson",
+      "aggregation pipeline",
+      "mongoose",
+      "indexing"
+    ]
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "category": "Tools",
+    "aliases": [
+      "git",
+      "version control",
+      "vcs"
+    ],
+    "description": "Distributed version control system for tracking source code changes and branching.",
+    "keywords": [
+      "commit",
+      "branch",
+      "merge",
+      "rebase",
+      "pull request",
+      "conflict resolution",
+      "git log"
+    ]
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "category": "Tools",
+    "aliases": [
+      "github",
+      "gitlab",
+      "bitbucket"
+    ],
+    "description": "Collaboration platform for Git repository hosting, code reviews, and CI/CD workflows.",
+    "keywords": [
+      "repositories",
+      "pull requests",
+      "issues",
+      "actions",
+      "workflows"
+    ]
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "Tools",
+    "aliases": [
+      "docker",
+      "containerization",
+      "containers"
+    ],
+    "description": "Containerization platform for packaging applications with all dependencies consistently.",
+    "keywords": [
+      "dockerfile",
+      "containers",
+      "images",
+      "docker-compose",
+      "volumes",
+      "ports"
+    ]
+  },
+  {
+    "id": "linux",
+    "name": "Linux",
+    "category": "Tools",
+    "aliases": [
+      "linux",
+      "unix",
+      "bash",
+      "shell scripting"
+    ],
+    "description": "Open-source Unix-like operating system environment and command-line utilities.",
+    "keywords": [
+      "bash",
+      "cli",
+      "permissions",
+      "grep",
+      "cron",
+      "ssh",
+      "file hierarchy"
+    ]
+  },
+  {
+    "id": "machine_learning",
+    "name": "Machine Learning",
+    "category": "AI/ML",
+    "aliases": [
+      "machine learning",
+      "ml",
+      "statistical modeling"
+    ],
+    "description": "Supervised and unsupervised algorithms for predictive pattern extraction from data.",
+    "keywords": [
+      "regression",
+      "classification",
+      "clustering",
+      "decision trees",
+      "random forest",
+      "cross-validation"
+    ]
+  },
+  {
+    "id": "deep_learning",
+    "name": "Deep Learning",
+    "category": "AI/ML",
+    "aliases": [
+      "deep learning",
+      "neural networks",
+      "dl"
+    ],
+    "description": "Multi-layered neural network architectures including CNNs, RNNs, and Transformers.",
+    "keywords": [
+      "neural networks",
+      "backpropagation",
+      "cnn",
+      "rnn",
+      "transformers",
+      "pytorch",
+      "tensorflow"
+    ]
+  },
+  {
+    "id": "pandas",
+    "name": "Pandas",
+    "category": "AI/ML",
+    "aliases": [
+      "pandas",
+      "data manipulation"
+    ],
+    "description": "Python library providing high-performance data structures and DataFrame analysis tools.",
+    "keywords": [
+      "dataframe",
+      "series",
+      "groupby",
+      "merge",
+      "missing values",
+      "filtering"
+    ]
+  },
+  {
+    "id": "numpy",
+    "name": "NumPy",
+    "category": "AI/ML",
+    "aliases": [
+      "numpy",
+      "numerical python"
+    ],
+    "description": "Fundamental package for scientific computing with multi-dimensional array operations.",
+    "keywords": [
+      "ndarrays",
+      "matrix multiplication",
+      "linear algebra",
+      "broadcasting",
+      "vectorization"
+    ]
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "category": "Cloud",
+    "aliases": [
+      "aws",
+      "amazon web services",
+      "cloud infrastructure"
+    ],
+    "description": "Comprehensive cloud computing platform providing scalable computing, storage, and networking.",
+    "keywords": [
+      "ec2",
+      "s3",
+      "lambda",
+      "iam",
+      "cloudwatch",
+      "vpc"
+    ]
+  }
+]
